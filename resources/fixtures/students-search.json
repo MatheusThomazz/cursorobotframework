@@ -1,0 +1,26 @@
+{
+    "word": "David",
+    "students":[
+        {
+            "name": "David Guetta",
+            "email": "david@gmail.com",
+            "age": 35,
+            "weight": 70,
+            "feet_tall": 1.75
+        },
+        {
+            "name": "David Bowie",
+            "email": "bowied@gmail.com",
+            "age": 60,
+            "weight": 70,
+            "feet_tall": 1.80
+        },
+        {
+            "name": "David Beckman",
+            "email": "beckam@gmail.com",
+            "age": 50,
+            "weight": 80,
+            "feet_tall": 1.75
+        }
+    ]
+}
